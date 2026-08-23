@@ -12,4 +12,4 @@ Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác *
 
 Dưới đây là sơ đồ kết nối chân giữa BW16 và các module ngoại vi:
 
-<img src="./Sơ đồ/SO_DO_1.png" width="450">
+<img src="https://github.com/nong-hoang-man/CODE-BIN/blob/662f1e760d98a15817d6650ea21ebd224759691d/IMG_20260823_163635.jpg" width="450">
