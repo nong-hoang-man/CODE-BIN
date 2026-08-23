@@ -4,7 +4,7 @@ Dự án sử dụng module ESP8266 để thực hiện các kỹ thuật kiểm
 
 ## 📺 Hướng dẫn nạp Code
 Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác **Nam Nobi** nhé:
-👉 [Xem video hướng dẫn tại đây](https://youtu.be/q96H-Iu4dWs?si=2UGkc-Wj9JI2bgHl)
+👉 [Xem video hướng dẫn tại đây](https://vt.tiktok.com/ZSVu98YwL/)
 
 ---
 
