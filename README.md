@@ -3,7 +3,7 @@
 Dự án sử dụng module ESP8266 để thực hiện các kỹ thuật kiểm thử bảo mật mạng WiFi băng tần 5GHz.
 
 ## 📺 Hướng dẫn nạp Code
-Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác **Nam Nobi** nhé:
+Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác **minh.exe** nhé:
 👉 [Xem video hướng dẫn tại đây](https://vt.tiktok.com/ZSVu98YwL/)
 
 ---
